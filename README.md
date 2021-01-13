@@ -1,8 +1,9 @@
 # Rock Paper Scissors Lizard Spock
 
-A game made in VueJS and SCSS 
+A game made in VueJS and SCSS. Requires node.js
 
 ## Project setup
+
 ```
 npm install
 ```
