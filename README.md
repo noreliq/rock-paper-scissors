@@ -1,4 +1,6 @@
-# rock-paper-scissors
+# Rock Paper Scissors Lizard Spock
+
+A game made in VueJS and SCSS 
 
 ## Project setup
 ```
